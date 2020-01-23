@@ -1,4 +1,15 @@
 
+
+# THIS PROJECT HAS MOVED
+
+
+Please see https://github.com/threatsimple/smug-broker for the latest version.
+
+This is here for historical purposes only.
+
+
+
+
 ```
  ___ _ __ ___  _   _  __ _ 
 / __| '_ ` _ \| | | |/ _` |
